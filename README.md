@@ -1,2 +1,2 @@
-# Sales-Management-System
+# Sales-Management
 Real Estate Sales Management (RESMS) System
